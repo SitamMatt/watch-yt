@@ -1,0 +1,23 @@
+{
+  "name": "yt-watcher",
+  "version": "0.0.1",
+  "description": "cli utility to launch browser with selected video in background",
+  "main": "index.js",
+  "bin": {
+    "watchyt": "./index.js"
+  },
+  "keywords": [
+    "youtube",
+    "cli"
+  ],
+  "author": "SitamMatt",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/yargs": "^17.0.7",
+    "playwright": "^1.17.1"
+  },
+  "type": "module",
+  "dependencies": {
+    "yargs": "^17.3.0"
+  }
+}
