@@ -1,5 +1,5 @@
 {
-  "name": "yt-watcher",
+  "name": "watch-yt",
   "version": "0.0.1",
   "description": "cli utility to launch browser with selected video in background",
   "main": "index.js",
